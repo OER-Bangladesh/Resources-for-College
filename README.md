@@ -3,6 +3,13 @@
 
 There are lots resources available online for free, but we find the best materials that is more effective for class 12 students.Author intention is to provide best quality education materials.
 
+# Contents
+
+- [M](#Matrix)
+
+
+
+
 # Higher Math: First Paper
 
 > Matrices & Determinants
@@ -21,7 +28,6 @@ There are lots resources available online for free, but we find the best materia
 
 ***
 
-<a href="http://www.youtube.com" target="_blank">external link</a>
 
 
 
