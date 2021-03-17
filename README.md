@@ -5,7 +5,7 @@ There are lots resources available online for free, but we find the best materia
 
 # Contents
 
-- [Straight lines](#Straight lines)
+- [g](#Vectors)
 
 
 
