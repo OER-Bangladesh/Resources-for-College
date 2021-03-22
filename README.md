@@ -1,4 +1,4 @@
-# Resources-for-College
+# Resources-for-HighSchool
 
 
 There are lots resources available online for free, but we find the best materials that is more effective for class 12 students. Author intention is to provide best quality educational materials best sutable for students in class 11-12.
